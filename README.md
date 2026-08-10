@@ -34,3 +34,10 @@ To install this plugin on your Minecraft server:
 
 
 ## Images
+
+<img width="761" height="785" alt="WhatsApp Image 2026-08-10 at 20 01 39" src="https://github.com/user-attachments/assets/3e54ecd2-1691-4584-89b2-ede660be9444" />
+<img width="1080" height="711" alt="WhatsApp Image 2026-08-10 at 20 01 39 (1)" src="https://github.com/user-attachments/assets/2b021e52-dd9a-4a50-a553-ca100843ff12" />
+<img width="726" height="217" alt="WhatsApp Image 2026-08-10 at 20 01 39 (2)" src="https://github.com/user-attachments/assets/bfd1e9e1-5bc9-4b74-86dd-bf746527ce71" />
+<img width="826" height="822" alt="WhatsApp Image 2026-08-10 at 20 01 39 (3)" src="https://github.com/user-attachments/assets/c3e4014a-c37e-47a1-89b1-f8b47fd71ffb" />
+<img width="872" height="727" alt="WhatsApp Image 2026-08-10 at 20 01 39 (4)" src="https://github.com/user-attachments/assets/b2416ed3-db61-410f-8db3-98a8c99d2e89" />
+
