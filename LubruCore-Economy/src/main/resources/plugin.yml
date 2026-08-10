@@ -1,0 +1,34 @@
+name: LubruCore-Economy
+version: 1.0
+main: Cool.lubruCoreEconomy.LubruCoreEconomy
+api-version: 1.21
+
+commands:
+  economy:
+    description: Opens the economy Menu
+    usage: /economy
+
+  setrank:
+    description: Set the rank of a player
+    usage: /setrank <Player> <Rank>
+
+  balance:
+    description: Let u see ur Balance
+    usage: /balance
+
+  pay:
+    description: Pays money to another Player
+    usage: /pay <Player> <amount>
+
+  setBalance:
+    description: Set balance of a player
+    usage: /setblance <Player> <Amount>
+
+  addmoney:
+    description: Adds Money to a Player
+    usage: /addmoney <Player> <Amount>
+
+  removemoney:
+    description: removes money from a Player
+    usage: /removemoney <Player> <Amount>
+
