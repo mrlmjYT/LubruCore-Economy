@@ -41,3 +41,10 @@ To install this plugin on your Minecraft server:
 <img width="826" height="822" alt="WhatsApp Image 2026-08-10 at 20 01 39 (3)" src="https://github.com/user-attachments/assets/c3e4014a-c37e-47a1-89b1-f8b47fd71ffb" />
 <img width="872" height="727" alt="WhatsApp Image 2026-08-10 at 20 01 39 (4)" src="https://github.com/user-attachments/assets/b2416ed3-db61-410f-8db3-98a8c99d2e89" />
 
+
+## Modrinth link 
+
+https://modrinth.com/project/PY4fvVUp
+
+works when the project was successfuly accepted at modrinth
+
